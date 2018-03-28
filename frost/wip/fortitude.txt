@@ -1,0 +1,3 @@
+replaced wicked with edit texture in cfg, to make replacing it easier when I find an appropriate texture,
+need to make some big changes to the map layout so that gameplay can be interesting,
+underwater tunnel will probably be removed as it is out of place
