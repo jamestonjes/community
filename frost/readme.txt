@@ -1,5 +1,6 @@
 The way each folder will work as they're added is as follows:
 maps is for maps deemed completed
+wip is for only work in progress maps
 layouts is for discarded levels anyone can take over if they like
 textures/decals, you can guess what they have, aswell as their sourcefiles if applicable
 models will have a combination of both WIP and completed models, as well as their .blend files
